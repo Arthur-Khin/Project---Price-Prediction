@@ -1,2 +1,2 @@
 # Project---Price-Prediction
-Bike Sharing Effective Price Price Prediction With SQL and Power BI
+Effective Bike Sharing Price Prediction With SQL and Power BI
